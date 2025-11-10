@@ -6,12 +6,12 @@
 
 ## 🎓 Kimler Katılmalı?
 
-Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer:
- 
-🔹 Makine öğrenmesine yeni başlıyorsan, temel bilgileri öğrenip pratik yaparak hızla ilerleyebilirsin. 
-🔹 Yazılım geliştiriciysen, veri bilimi ve ML modellerini projelerinde nasıl kullanacağını keşfedebilirsin. 
-🔹 Ürün yöneticisi, analist veya araştırmacıysan, makine öğrenmesini iş süreçlerine nasıl entegre edebileceğini görebilirsin. 
-🔹 Veri analizi veya istatistik geçmişin varsa, bilgini makine öğrenmesi modelleriyle uygulama fırsatı bulabilirsin. 
+Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer:<br>
+<br>
+🔹 Makine öğrenmesine yeni başlıyorsan, temel bilgileri öğrenip pratik yaparak hızla ilerleyebilirsin.<br>
+🔹 Yazılım geliştiriciysen, veri bilimi ve ML modellerini projelerinde nasıl kullanacağını keşfedebilirsin.<br>
+🔹 Ürün yöneticisi, analist veya araştırmacıysan, makine öğrenmesini iş süreçlerine nasıl entegre edebileceğini görebilirsin.<br>
+🔹 Veri analizi veya istatistik geçmişin varsa, bilgini makine öğrenmesi modelleriyle uygulama fırsatı bulabilirsin.<br>
 
 ### [Ders 0: Kick-Off Zero2End ML Bootcamp](https://www.youtube.com/watch?v=2bnm0hC8lmo) 
 <details>
@@ -39,7 +39,7 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer:
 <summary>Click to expand!</summary>
 
 📂 **Ders Materyalleri**
-- 📄 [Sunum: SQL Zero2End - Ek Materyal](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/sql_zero2end.pdf)
+- 📄 [Sunum Dosyası: SQL Zero2End](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/sql_zero2end.pdf)
 - 📚 [Ek kanynak: SQL-Python Eğitim Notebookları](https://github.com/enesmanan/sql-python-egitim)
 - 📄 [Transcript: SQL Temelleri - Özge Usta](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/sql_temelleri_ozge_usta.pdf)
 - 📝 [SQL Temelleri - Özet ve Anahtar Kelimeler](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/sql_temelleri_ozge_usta_ozet_ve_anahtar_kelimerl.pdf)
