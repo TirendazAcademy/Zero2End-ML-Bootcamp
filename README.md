@@ -39,9 +39,11 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer:<br>
 <summary>Click to expand!</summary>
 
 📂 **Ders Materyalleri**
-- 📄 [Sunum Dosyası: SQL Zero2End](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/sql_zero2end.pdf)
+- 📄 [Sunum Dosyası: SQL Zero2End](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/sql_temelleri_ozge_usta.pdf)
 - 📚 [Ek kanynak: SQL-Python Eğitim Notebookları](https://github.com/enesmanan/sql-python-egitim)
-- 📄 [Transcript: SQL Temelleri - Özge Usta](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/sql_temelleri_ozge_usta.pdf)
+
+Topluluktan Gelenler:
+- 📄 [Transcript: SQL Temelleri - Özge Usta](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/sql_zero2end.pdf)
 - 📝 [SQL Temelleri - Özet ve Anahtar Kelimeler](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/sql_temelleri_ozge_usta_ozet_ve_anahtar_kelimerl.pdf)
 
 </details>
@@ -64,8 +66,8 @@ Notebook'lardaki kaynaklar:
 - [UCI ML Repository Datasets](https://archive.ics.uci.edu/datasets)
 
 Topluluktan Gelenler:
-- [Transkript dosyası](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/pythona_giris_ve_temel_veri_kutuphaneleri__goker_guner.pdf)
-- [Öne Çıkan Maddeler](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/pythona_giris_ve_temel_veri_kutuphaneleri_-_one_cikan_maddeler_-_ozet_-_goker_guner.pdf)
+- [Transkript dosyası](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/pythona_giris_ve_temel_veri_kutuphaneleri__goker_guner.pdf)
+- [Öne Çıkan Maddeler](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/pythona_giris_ve_temel_veri_kutuphaneleri_-_one_cikan_maddeler_-_ozet_-_goker_guner.pdf)
 
 </details>
 
@@ -76,8 +78,8 @@ Topluluktan Gelenler:
 Topluluktan Gelenler:
 - [Transkript Dosyası](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/olasilik_istatistik__lineer_cebir_-_engin_deniz_alpman.pdf)
 - [Ücretsiz AI Kursları](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/Free_AI_Courses_List.pdf)
-- [Ders Notları](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/olasilik_istatistik__lineer_cebir_-_kendime_notlar_-_engin_deniz_alpman.pdf)
-- [Öne Çıkan Maddeler](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/olasilik_istatistik__lineer_cebir_-_one_cikan_maddeler_ozet_-_engin_deniz_alpman.pdf)
+- [Ders Notları](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/olasilik_istatistik__lineer_cebir_-_kendime_notlar_-_engin_deniz_alpman.pdf)
+- [Öne Çıkan Maddeler](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/olasilik_istatistik__lineer_cebir_-_one_cikan_maddeler_ozet_-_engin_deniz_alpman.pdf)
 
 </details>
 
