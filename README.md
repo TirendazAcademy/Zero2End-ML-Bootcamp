@@ -92,6 +92,11 @@ Topluluktan Gelenler:
 - [Eğitim notebook](https://github.com/enesmanan/credit-risk-model/blob/main/notebooks/analysis/00_data_preparation_egitim.ipynb)
 - [LLMAutoEDA Paketi](https://github.com/enesmanan/LLMAutoEDA)
 
+Topluluktan Gelenler:
+- [Transkript dosyası](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/model_icin_veri_hazirlama_eda_-_enes_fehmi_manan.pdf)
+- [Öne Çıkan Maddeler](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/model_icin_veri_hazirlama_eda_-_one_cikan_maddeler_ozet_-_enes_fehmi_manan.pdf)
+
+
 </details>
 
 ### [Ders 6: Final Proje Yayını](https://www.youtube.com/watch?v=laNHrV-stR0) - [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)
